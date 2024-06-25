@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activewindow="0">
+  <PLACEMENT>2c00000002000000030000000083ffff0083ffffffffffffffffffff8c0000000d000000f40600002b040000</PLACEMENT>
+  <WINDOW type="default" module="ISIS"/>
+  <WINDOW type="default" module="VSMSTUDIO">
+   <FILE LINE="8" ACTIVE="TRUE" NAME="Raspberry Pi 3/main.py" INDEX="21"/>
+   <STATE NAME="EDIT" VALUE="AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAAC8/wCAAAAAvsAAAAQAFAAcgBvAGoAZQBjAHQAcwEAAAAAAAAC8wAAASwA////+wAAABQAUAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAHEA////AAAAAwAAB3gAAACY/AEAAAAB/AAAAAAAAAd4AAAAWwD////6AAAAAAEAAAAK+wAAACAATwB1AHQAcAB1AHQARABvAGMAawBXAGkAZABnAGUAdAEAAAAA/////wAAAFsA////+wAAACoAZABvAGMAawA6ADAAOgBTAGkAbQB1AGwAYQB0AGkAbwBuACAATABvAGcAAAAAAP////8AAAAAAAAAAPsAAAAmAGQAbwBjAGsAOgAxADoAVwBhAHQAYwBoACAAVwBpAG4AZABvAHcAAAAAAP////8AAAAAAAAAAPsAAAA+AGQAbwBjAGsAOgAzADoAQQBWAFIAIABDAFAAVQAgAFIAZQBnAGkAcwB0AGUAcgBzACAALQAgAEEAUgBEADEAAAAAAP////8AAAAAAAAAAPsAAABAAGQAbwBjAGsAOgAxADAAOgBBAFYAUgAgAFAAcgBvAGcAcgBhAG0AIABTAHQAYQBjAGsAIAAtACAAQQBSAEQAMQAAAAAA/////wAAAAAAAAAA+wAAADwAZABvAGMAawA6ADYAOgBBAFYAUgAgAEUAUABSAE8ATQAgAE0AZQBtAG8AcgB5ACAALQAgAEEAUgBEADEAAAAAAP////8AAAAAAAAAAPsAAABAAGQAbwBjAGsAOgA3ADoAQQBWAFIAIABQAHIAbwBnAHIAYQBtACAATQBlAG0AbwByAHkAIAAtACAAQQBSAEQAMQAAAAAA/////wAAAAAAAAAA+wAAADoAZABvAGMAawA6ADQAOgBBAFYAUgAgAEQAYQB0AGEAIABNAGUAbQBvAHIAeQAgAC0AIABBAFIARAAxAAAAAAD/////AAAAAAAAAAD7AAAAQABkAG8AYwBrADoAMQAzADoAQQBWAFIAIABJAC8ATwAgAFIAZQBnAGkAcwB0AGUAcgBzACAALQAgAEEAUgBEADEAAAAAAP////8AAAAAAAAAAPsAAAA2AGQAbwBjAGsAOgAyADoAVgBTAE0AUABZACAAVgBhAHIAaQBhAGIAbABlAHMAIAAtACAAVQAxAQAAAAD/////AAAAAAAAAAAAAAZzAAAC8wAAAAEAAAACAAAACAAAAAL8AAAAAA=="/>
+   <STATE NAME="DEBUG" VALUE="AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAAC8/wCAAAAAvsAAAAQAFAAcgBvAGoAZQBjAHQAcwAAAAAAAAAC8wAAASwA////+wAAABQAUAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAHEA////AAAAAwAAB3gAAACY/AEAAAAB/AAAAAAAAAd4AAABkgD////6AAAACQEAAAAK+wAAACAATwB1AHQAcAB1AHQARABvAGMAawBXAGkAZABnAGUAdAAAAAAA/////wAAAFsA////+wAAACoAZABvAGMAawA6ADAAOgBTAGkAbQB1AGwAYQB0AGkAbwBuACAATABvAGcAAAAAAP////8AAAGSAP////sAAAAmAGQAbwBjAGsAOgAxADoAVwBhAHQAYwBoACAAVwBpAG4AZABvAHcAAAAAAP////8AAAFgAP////sAAAA+AGQAbwBjAGsAOgAzADoAQQBWAFIAIABDAFAAVQAgAFIAZQBnAGkAcwB0AGUAcgBzACAALQAgAEEAUgBEADEAAAAAAP////8AAABbAP////sAAABAAGQAbwBjAGsAOgAxADAAOgBBAFYAUgAgAFAAcgBvAGcAcgBhAG0AIABTAHQAYQBjAGsAIAAtACAAQQBSAEQAMQAAAAAA/////wAAAAAAAAAA+wAAADwAZABvAGMAawA6ADYAOgBBAFYAUgAgAEUAUABSAE8ATQAgAE0AZQBtAG8AcgB5ACAALQAgAEEAUgBEADEAAAAAAP////8AAABbAP////sAAABAAGQAbwBjAGsAOgA3ADoAQQBWAFIAIABQAHIAbwBnAHIAYQBtACAATQBlAG0AbwByAHkAIAAtACAAQQBSAEQAMQAAAAAA/////wAAAFsA////+wAAADoAZABvAGMAawA6ADQAOgBBAFYAUgAgAEQAYQB0AGEAIABNAGUAbQBvAHIAeQAgAC0AIABBAFIARAAxAAAAAAD/////AAAAWwD////7AAAAQABkAG8AYwBrADoAMQAzADoAQQBWAFIAIABJAC8ATwAgAFIAZQBnAGkAcwB0AGUAcgBzACAALQAgAEEAUgBEADEAAAAAAP////8AAABbAP////sAAAA2AGQAbwBjAGsAOgAyADoAVgBTAE0AUABZACAAVgBhAHIAaQBhAGIAbABlAHMAIAAtACAAVQAxAQAAAAD/////AAABkgD///8AAAd4AAAC8wAAAAEAAAACAAAACAAAAAL8AAAAAA=="/>
+   <PROJECT ACTIVE="TRUE" NAME="RPI3" CONFIGURATION="Debug">
+    <PROGRAMMER NAME="RPISSH" INTERFACE="Raspberry Pi">
+     <PROPERTY NAME="HOST" VALUE=""/>
+     <PROPERTY NAME="USERNAME" VALUE="pi"/>
+     <PROPERTY NAME="PASSWORD" VALUE="raspberry"/>
+     <PROPERTY NAME="TARGET_PATH" VALUE="/vsm"/>
+    </PROGRAMMER>
+   </PROJECT>
+  </WINDOW>
+ </FRAME>
+ <MODULE name="VSMDEBUG">
+  <PWI>
+   <POPUP w="400" x="5" flags="00000002" y="133" h="100" pid="0" iid="-1">
+    <PROPERTIES>
+     <ITEM name="Message Column Width">158</ITEM>
+     <ITEM name="ShowGrid">No</ITEM>
+     <ITEM name="Source Column Width">100</ITEM>
+     <ITEM name="Time Column Width">120</ITEM>
+     <ITEM name="Version">100</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="350" x="5" flags="00000032" y="133" h="100" pid="1" iid="-1">
+    <PROPERTIES>
+     <ITEM name="Address Column Width">87</ITEM>
+     <ITEM name="AutoResize">No</ITEM>
+     <ITEM name="Gridlines">Yes</ITEM>
+     <ITEM name="Name Column Width">87</ITEM>
+     <ITEM name="ShowAddresses">Yes</ITEM>
+     <ITEM name="ShowPreviousValues">No</ITEM>
+     <ITEM name="ShowTypes">No</ITEM>
+     <ITEM name="ShowWatchPoint">Yes</ITEM>
+     <ITEM name="TriggerMode">0</ITEM>
+     <ITEM name="Value Column Width">87</ITEM>
+     <ITEM name="Version">100</ITEM>
+     <ITEM name="Watch Expression Column Width">87</ITEM>
+     <ITEM name="nItems">0</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="98" x="5" flags="00000008" y="133" h="28" pid="3" iid="3">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP w="1" x="5" flags="0000000a" y="133" h="1" pid="10" iid="3">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="1" x="5" flags="0000000a" y="133" h="1" pid="6" iid="3">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="1" x="5" flags="0000000a" y="133" h="1" pid="7" iid="3">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="16" x="168" flags="80000000" y="280" h="32" pid="14" iid="3">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="1" x="5" flags="0000000a" y="133" h="1" pid="4" iid="3">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000100</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="1" x="5" flags="0000000a" y="133" h="1" pid="13" iid="3">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000020</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="1906" x="6" flags="0000002b" y="157" h="726" pid="1" iid="1">
+    <PROPERTIES>
+     <ITEM name="CaseSensitive">No</ITEM>
+     <ITEM name="DISPADDRS">Yes</ITEM>
+     <ITEM name="DISPLNUMS">No</ITEM>
+     <ITEM name="DISPOPCODES">No</ITEM>
+     <ITEM name="FIXUPBPTS">Yes</ITEM>
+     <ITEM name="WordsOnly">No</ITEM>
+     <ITEM name="nBreakpoints">0</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="1910" x="5" flags="0000000b" y="919" h="124" pid="2" iid="1">
+    <PROPERTIES>
+     <ITEM name="Address Column Width">636</ITEM>
+     <ITEM name="AutoResize">No</ITEM>
+     <ITEM name="Gridlines">Yes</ITEM>
+     <ITEM name="Name Column Width">636</ITEM>
+     <ITEM name="ShowAddresses">Yes</ITEM>
+     <ITEM name="ShowGlobals">Yes</ITEM>
+     <ITEM name="ShowPreviousValues">No</ITEM>
+     <ITEM name="ShowTypes">No</ITEM>
+     <ITEM name="ShowWatchPoint">No</ITEM>
+     <ITEM name="TriggerMode">0</ITEM>
+     <ITEM name="Value Column Width">636</ITEM>
+     <ITEM name="Version">100</ITEM>
+     <ITEM name="nItems">0</ITEM>
+    </PROPERTIES>
+   </POPUP>
+  </PWI>
+ </MODULE>
+</WORKSPACE>
