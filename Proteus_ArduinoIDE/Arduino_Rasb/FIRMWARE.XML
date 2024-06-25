@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<FIRMWARE FAMILY="Raspberry Pi" COMPILER="Python 3 (Proteus)" TYPE="RPI4">
+ <PROJECTS>
+  <STRING>RPI4</STRING>
+ </PROJECTS>
+</FIRMWARE>
